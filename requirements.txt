@@ -1,0 +1,2 @@
+japanize_matplotlib
+matplotlib
